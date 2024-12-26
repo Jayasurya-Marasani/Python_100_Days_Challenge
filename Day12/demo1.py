@@ -21,7 +21,8 @@ def drink_potion():
 drink_potion()
 
 # There is no Block Scope in Python!
-# So here in if condition the variable called new_enemy doesn't have block scope. we can use it even outside the if condition. But if we put the same condition in function we can't use the new_enemy variable outside of that function.
+# So here in if condition the variable called new_enemy doesn't have block scope. we can use it even outside the if condition. 
+# But if we put the same condition in function we can't use the new_enemy variable outside of that function.
 enemies = ["Skeleton", "Zombie", "Alien"]
 
 game_level = 3
