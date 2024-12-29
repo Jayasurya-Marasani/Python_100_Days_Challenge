@@ -4,3 +4,4 @@ sorted_arr = sorted(arr)
 
 print("Original array:", arr)
 print("Sorted array:", sorted_arr)
+print("Hello World")
