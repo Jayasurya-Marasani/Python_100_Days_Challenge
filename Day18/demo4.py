@@ -1,9 +1,10 @@
-from turtle import Turtle,Screen
+import turtle
 import random 
-tim = Turtle()
+tim = turtle.Turtle()
 tim.pensize(10)
-screen = Screen()
-
+turtle.colormode(255)
+screen = turtle.Screen()
+turtle.colormode(255)
 colors = ["red", "blue", "green", "orange", "purple", "pink", "yellow", "cyan"]
 
 # height = screen.window_height()//2
@@ -32,7 +33,8 @@ directions = [0, 90, 180, 270]
 tim.speed(300)
 for _ in range(200):
     tim.speed(20)
-    tim.color(random.choice(colors))
+    color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
+    tim.pencolor(color)
     tim.forward(30)
     tim.setheading(random.choice(directions))
 
