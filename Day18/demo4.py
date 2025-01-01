@@ -4,7 +4,7 @@ tim = turtle.Turtle()
 tim.pensize(10)
 turtle.colormode(255)
 screen = turtle.Screen()
-turtle.colormode(255)
+
 colors = ["red", "blue", "green", "orange", "purple", "pink", "yellow", "cyan"]
 
 # height = screen.window_height()//2
