@@ -1,7 +1,7 @@
 import turtle
 import colorgram as cg
 import random
-from PIL import Image
+
 
 tim = turtle.Turtle()
 screen = turtle.Screen()
@@ -27,5 +27,3 @@ canvas = screen.getcanvas()
 canvas.postscript(file="hirst_painting.eps")  # Save the canvas to an EPS file
 
 screen.exitonclick()
-img = Image.open("hirst_painting.eps")
-img.save("hirst_painting.png")
