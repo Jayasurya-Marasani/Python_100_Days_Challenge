@@ -25,10 +25,12 @@ while len(guessed_states) < 50:
         guessed_correct += 1
         guessed_states.append(answer_state)
     elif answer_state == "exit":
-        missing_states = []
-        for state in states:
-            if state not in guessed_states:
-                missing_states.append(state)
+        # missing_states = []
+        # for state in states:
+        #     if state not in guessed_states:
+        #         missing_states.append(state)
+
+        missing_states = [state for state in states if state not in guessed_states]
         new_data_dict = {
             "Missing States" : missing_states
         }
