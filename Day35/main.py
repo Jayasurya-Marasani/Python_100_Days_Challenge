@@ -29,5 +29,5 @@ if will_rain:
     proxy_client = TwilioHttpClient()
     proxy_client.session.proxies = {'https': os.environ['https_proxy']}
     client = Client(account_sid=account_sid, auth_token=auth_token, http_client=proxy_client)
-    message = client.messages.create(body = "Its goint to rain today. Bring an Umbrella.",from_="+12057362627", to="+919999999999")
+    message = client.messages.create(body = "Its goint to rain today. Bring an Umbrella.",from_="your twilio assigned number", to="your phone number")
     print(message.status)
