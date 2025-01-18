@@ -1,0 +1,3 @@
+This day is to build a capstone project using APIs and twilio and sheety inorder to check the deals of flight tickets.
+
+But this project wants me to create so many signs and asked me to share so many details so that's why I am skippint the project
