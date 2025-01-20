@@ -1,0 +1,55 @@
+What is information?
+Information is the output that results from analyzing, contextualizing, structuring, interpreting or in other ways processing data. Information infuses meaning and value into the data. It facilitates understanding, communication and learning, and is a key factor in system designs and strategic planning, as well as in problem-solving and decision-making. Information brings context to the data, turning what would otherwise be meaningless content into something comprehensible and usable.
+The data-information-knowledge-wisdom pyramid
+
+        Information has been defined in many ways over the years, and the definitions are not always consistent with each other. For example, one Merriam-Webster definition describes information as "knowledge obtained from investigation, study or instruction." However, the Dictionary of Information Science and Technology, written by Carolyn Watters, defines information as "meaning assigned to data within some context for the use of that data." And the National Institute of Standards and Technology (NIST) describes information as "any communication or representation of knowledge such as facts, data or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative or audiovisual."
+
+Despite the varied definitions, there is still a general consensus that information is different from raw data and that it can be said to bring meaning to the data. Information can also come from many sources, including books, magazines, letters, text messages, emails, websites, classrooms, social networking sites, oral presentations, movies, and audio recordings.
+
+What is the difference between information and data?
+The terms data and information are often used interchangeably, but there are important differences between them. Data is made up of raw facts and figures. It is unprocessed and without context. It can include statistics, observations, measures or symbols. For example, a data set might contain dates, ages, inventory levels, eye colors, temperature readings, sports scores or an assortment of other facts.
+
+In the context of computing and information technology (IT), data can be thought of as unprocessed electronic content that a software application collects and records. This type of data is typically stored in files, databases or other structured systems. The data can be accessed and manipulated digitally and transferred between systems and across networks.
+
+Digital data is collected from a variety of sources, such as computers, sensors, monitors, smartphones and internet of things (IoT) devices. Data is used extensively in business, government, science and engineering, although consumers also store and exchange ample amounts of data. Data can also come in many forms, including numbers, text, videos, graphics and sounds.
+
+Regardless of the source, data on its own has little meaning. For example, a data set might include a list of trees and their ages across multiple geographic regions. Without some type of context, the details are relatively meaningless. However, when the data set is contextualized, it can reveal important information about tree life expectancy, regional differences or environmental patterns. Data provides the necessary facts, but information brings understanding to those facts.
+
+Information is created when data is presented in a way that has meaning to the recipient. To turn data into information, it must be processed and organized. Presenting data in a way that has meaning and value is called information design, which is an important field in both information architecture and human-computer interaction.
+
+The 6 types of information
+Information can be categorized in different ways, such as by source, quality or topic. One method that is often used was first proposed in the 1970s by J. H. Shera, a noted librarian and information scientist who identified six categories of information:
+
+Information can be categorized in different ways, such as by source, quality or topic. One method that is often used was first proposed in the 1970s by J. H. Shera, a noted librarian and information scientist who identified six categories of information:
+Conceptual. Information that is based on ideas, concepts, theories, hypotheses and other abstract notions or beliefs.
+Empirical. Information that is obtained through observation, experimentation and other verifiable methodologies.
+Procedural. Information that describes how to carry out a procedure or that someone already possesses through knowing how to perform a task.
+Policy. Information that is related to laws, regulations, rules, guidelines, policies and other types of oversights whose purpose is to inform and enable more effective decision-making.
+Directive. Information that provides directions or descriptions to individuals or groups so they can better understand concepts or circumstances.
+Stimulatory. Information that is intended to provoke a response, stimulate a reaction or in other ways motivate individuals or groups to take action.
+Another way that information might be categorized is by whether it is factual or analytical. Factual information is based only on known and proven facts, while analytical information is the interpretation of factual data. It considers what is inferred or implied by the data by applying methods of reason or deduction.
+
+Information might also be categorized by whether it is subjective or objective. Subjective information is based on someone's point of view, such as the type of information conveyed through opinions. In contrast, objective information is, in theory, based on facts and free from bias, although there is some debate about whether any knowledge can ever be truly objective.
+Information might also be categorized by whether it is subjective or objective. Subjective information is based on someone's point of view, such as the type of information conveyed through opinions. In contrast, objective information is, in theory, based on facts and free from bias, although there is some debate about whether any knowledge can ever be truly objective.
+Information might also be categorized by whether it is subjective or objective. Subjective information is based on someone's point of view, such as the type of information conveyed through opinions. In contrast, objective information is, in theory, based on facts and free from bias, although there is some debate about whether any knowledge can ever be truly objective.
+
+Information might also be categorized by whether it is subjective or objective. Subjective information is based on someone's point of view, such as the type of information conveyed through opinions. In contrast, objective information is, in theory, based on facts and free from bias, although there is some debate about whether any knowledge can ever be truly objective.
+The data-information-knowledge-wisdom pyramid
+The data-information-knowledge-wisdom pyramid
+The data-information-knowledge-wisdom pyramid
+
+Data. The discrete, raw facts about a given situation are collected, but no analysis or interpretation is applied. This level sits at the bottom of the pyramid.
+The data-information-knowledge-wisdom model illustrates the progression from raw data to wisdom, where insights lead to effective data-driven decisions. Structured as a pyramid, the model was created to show how data can be captured in one form, analyzed and converted into another form. The pyramid includes four levels: data, information, knowledge and wisdom. Each level represents a different perspective or layer of abstraction, as follows:
+Information. Structure and meaning are applied to the collected data to make it useful. This layer sits above the data layer in the pyramid.
+Knowledge. Insight, context and a frame of reference are applied to the information so it can be interpreted. This layer sits above the information layer in the pyramid.
+The data-information-knowledge-wisdom pyramid
+Wisdom. Knowledge is converted into wisdom by applying judgment and action to the information. This level sits at the top of the pyramid.
+Diagram of data-information-knowledge-wisdom pyramid.
+The data-information-knowledge-wisdom pyramid
+See how a real-world example of the data-information-knowledge-wisdom pyramid works.
+Knowledge is information that has been processed, analyzed and interpreted so it can be used to make decisions. The concept of knowledge involves not just the information, but also the ability to access it. For example, most applications, including models and simulations, contain a form of stored knowledge.
+
+Wisdom is the synthesis of information, knowledge and experience in a way that applies knowledge to real-life situations. The concept of wisdom enables the understanding of patterns and their driving factors. It is also instrumental in predicting future events.
+
+Artificial intelligence (AI) has enabled computers to learn, problem-solve and perform tasks that usually require human intelligence. These technologies enable computers to carry out operations based on what the data indicates is the best course of action. AI is used in advanced systems to diagnose disease, buy and sell stocks, and play chess better than a human. However, AI has not yet attained a level of human wisdom.
+
