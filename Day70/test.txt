@@ -1,0 +1,19 @@
+This Day is about learning git.
+
+git init  ==> initialises the git repo
+git status ==> shows the status about the files
+git add ==> adds the files to the staging area to track the changes
+git commit -m "some message" ==> commits the files that were added in the staging area( also known as save point) and commit messages are always written in present tense.
+git log ==> shows what commits we have made in the repo
+git checkout filename ==> reverts back the filename to the last position in our local repository
+git diff filename ==> shows the differences between last checked point to the current version of the file.
+git remote add <name> <url> ==> it tells the local repository that I have created a remote repo in internet and I want to transfer all the file to that remote repo
+git push -u <remote-name> <branch-name> ==> it pushes the local repo to the remote repo
+
+git rm --cached -r .  ==> unstages the files that were added by git add command
+git clone <url> ==> clones the full repo and stores in working directory
+git branch name-of-branch ==> creates a new branch 
+git merge name-of-branch ==> merges to the main branch
+git branch ==> shows how many brances are there in the repo
+git checkout branch-name ==> switches to that branch 
+
